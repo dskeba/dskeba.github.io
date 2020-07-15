@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Derek Skeba</title>
-    <link>https://dskeba.github.io/categories/</link>
+    <link>http://derekskeba.com/categories/</link>
     <description>Recent content in Categories on Derek Skeba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="https://dskeba.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://derekskeba.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>branding</title>
-      <link>https://dskeba.github.io/categories/branding/</link>
+      <link>http://derekskeba.com/categories/branding/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://dskeba.github.io/categories/branding/</guid>
+      <guid>http://derekskeba.com/categories/branding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://dskeba.github.io/categories/design/</link>
+      <link>http://derekskeba.com/categories/design/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://dskeba.github.io/categories/design/</guid>
+      <guid>http://derekskeba.com/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://dskeba.github.io/categories/development/</link>
+      <link>http://derekskeba.com/categories/development/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://dskeba.github.io/categories/development/</guid>
+      <guid>http://derekskeba.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>illustration</title>
-      <link>https://dskeba.github.io/categories/illustration/</link>
+      <link>http://derekskeba.com/categories/illustration/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://dskeba.github.io/categories/illustration/</guid>
+      <guid>http://derekskeba.com/categories/illustration/</guid>
       <description></description>
     </item>
     
