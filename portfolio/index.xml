@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Derek Skeba</title>
-    <link>http://derekskeba.com/portfolio/</link>
+    <link>https://dskeba.github.io/portfolio/</link>
     <description>Recent content in Portfolio on Derek Skeba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="http://derekskeba.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dskeba.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-1/</link>
+      <link>https://dskeba.github.io/portfolio/project-1/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-1/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-2/</link>
+      <link>https://dskeba.github.io/portfolio/project-2/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-2/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-3/</link>
+      <link>https://dskeba.github.io/portfolio/project-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-3/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-4/</link>
+      <link>https://dskeba.github.io/portfolio/project-4/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-4/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-5/</link>
+      <link>https://dskeba.github.io/portfolio/project-5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-5/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-6/</link>
+      <link>https://dskeba.github.io/portfolio/project-6/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-6/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-7/</link>
+      <link>https://dskeba.github.io/portfolio/project-7/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-7/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-7/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-8/</link>
+      <link>https://dskeba.github.io/portfolio/project-8/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-8/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-8/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>http://derekskeba.com/portfolio/project-9/</link>
+      <link>https://dskeba.github.io/portfolio/project-9/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://derekskeba.com/portfolio/project-9/</guid>
+      <guid>https://dskeba.github.io/portfolio/project-9/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
