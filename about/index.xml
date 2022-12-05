@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Derek Skeba, Software Engineer, Taco Lover</title>
-    <link>http://derekskeba.com/about/</link>
+    <link>https://derekskeba.com/about/</link>
     <description>Recent content in About on Derek Skeba, Software Engineer, Taco Lover</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://derekskeba.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://derekskeba.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
